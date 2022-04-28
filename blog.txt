@@ -1,0 +1,4 @@
+text box
+images
+business
+persona; blog
